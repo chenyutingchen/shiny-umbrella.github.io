@@ -1,26 +1,6 @@
 # shiny-umbrella.github.io
 <!DOCTYPE html>
 <html lang="zh-TW">
-<head>
-   <title>菸煙一熄</title>
-   <meta charset="utf-8">
-   <style>
-   mark {
-	   font-size:20px;
-	   background-color:#8285b6;
-	}
-   font {
-           font-family:"cwTeXFangSong", serif;
-        }
-        @import url(https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
-	a:link{color:#fff;}      /* 未訪問連結*/
-	a:visited {color:#fff;}  /* 已訪問連結 */
-	a:hover {color:#000000;}  /* 滑鼠移動到連結上 */
-	a:active {color:#000000;}
-</style>
-</head>
-<body bgcolor="#1c0f3c">
-<font color="#d0eaf1">
 <center><h1 id="top">菸害防制宣導</h1>
 <h2>戒菸專線<i>&emsp; 0800-636363</i></h2>
 <h3>香煙三大殺手</h3>
